@@ -1,4 +1,3 @@
-# Questão 01:
 # Escreva um código que receba uma senha de usuário e caso este erre a senha 3x o programa irá entrar em bloqueio onde só será desbloqueado com a senha de administrador, retornando para a solicitação de senha de usuário.
 # Caso a senha de usuária seja digitada corretamente o sistema encerra com mensagem de seja bem-vindo.
 # Informações:
